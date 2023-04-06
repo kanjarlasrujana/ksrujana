@@ -1,0 +1,180 @@
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    
+  }
+    
+  .Menu li  {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .Menu {
+    background-color: pink; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Menu li,a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 150px;
+    height:40px
+
+  }
+ .margin-top-20
+
+{
+    margin-top:  20px;
+    width: 100%;
+}
+   
+.first {
+    font-family: Georgia; 
+
+}
+ 
+.coloursize {
+    font-family: Arial; font-size: medium; color: black; font-size: 25px; text-align-last: center;
+}
+
+.wp100 {
+  word-spacing: 100px;
+}
+.textcenter,p {
+  text-align: center;
+  font-family: Arial;
+
+}
+#Pdeatils
+{
+  text-align: center;
+}
+.formallign
+input
+{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+}
+input[type=button] {
+  width: 20%;
+  background-color:pink;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+  .form-center {
+    width:600px;
+    margin: 0 auto;
+}
+
+.designations li
+{
+
+  font-family: Arial;
+  font-size: 22px;
+  margin-left: 50px; 
+
+}
+.imageright
+{
+  display: block;
+  margin-left: auto;
+}
+a:link {
+  color:darkmagenta
+
+}
+a:hover {
+  color:black
+
+}
+h1
+{
+   border-width: 2px;
+   border-style: solid;
+   border-color: pink;
+   border-radius: 10px;
+}
+
+img {
+  float:right; 
+  padding-top: 20px;
+  padding-right: 30px;
+}
+.background {
+  text-align: center;
+}
+
+.button {
+  padding: 16px 32px;  
+  margin-right: 15px;
+  text-align: center;
+  width:fit-content;margin:auto;
+}
+  .layout {
+  width: 600px;
+  margin: auto;
+  }
+  .accordion {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: rgb(105, 206, 105);
+  border-radius: 10px;
+  }
+  .accordion__question p {
+  margin: 5px;
+  padding: 0;
+  font-family: Verdana;
+  font-size: 20px;
+  }
+  .accordion__answer p {
+  margin: 5px;
+  padding: 10px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(255, 255, 255);
+  background: rgb(82, 170, 122);
+  border-radius: 10px;
+  }
+  .accordion:hover {
+  cursor: pointer;
+  }
+  .accordion__answer {
+  display: none;
+  }
+  .accordion.active .accordion__answer {
+  display: block;
+  }
+  
+
+
+  
+  input  
+  {  
+  width: 20px;  
+  border: 3px solid gray;  
+      border-radius: 5px;  
+      padding: 26px;  
+      margin: 5px;  
+      font-size: 15px;  
+  }  
+
+  #calc{  
+    width: 250px;  
+    border: 5px solid black;  
+        border-radius: 3px;  
+        padding: 20px;  
+        margin: auto;  
+    }  
